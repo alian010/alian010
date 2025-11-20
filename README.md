@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shakhawat Hossen
 
 💻 **Software & DevOps Engineer | Full-Stack Django Developer | Cloud & Monitoring Enthusiast**  
-📍 Bangladesh  
+📍 Mohakhali, Dhaka, Bangladesh
 📫 Reach me: [shakhawat.icpc@gmail.com](mailto:shakhawat.icpc@gmail.com) | [0962210005101020@isu.ac.bd](mailto:0962210005101020@isu.ac.bd)
 
 ---
@@ -19,9 +19,10 @@ I enjoy:
 🔧 I work with:
 - **Backend & APIs**: Python, Django, Django REST Framework  
 - **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS  
-- **Databases**: PostgreSQL, MySQL  
-- **DevOps & Infra**: Docker, Nginx, Linux, Git/GitHub, basic CI/CD  
-- **Monitoring & Logging**: Grafana, Prometheus (learning)  
+- **Databases**: PostgreSQL, MySQL
+- **Cloud & Infrastructure**: AWS (EC2, RDS, S3, Route 53, Beanstalk, ElastiCache), Vagrant, VirtualBox
+- **DevOps**: Docker, Nginx, Linux, Git/GitHub, CI/CD  
+- **Monitoring & Logging**: AWS CloudWatch, Grafana, Prometheus 
 - **Data & ML**: Pandas, scikit-learn, TensorFlow  
 
 ---
@@ -56,16 +57,6 @@ Experimenting with:
 - Ideas on how to plug ML models into web apps (Django/REST APIs)
 
 > _Add your ML repo link here when ready._
-
----
-
-### 💻 Frontend & React Practice
-Practicing:
-- **React components**  
-- Tailwind CSS layouts  
-- Responsive and modern UI
-
-> _Point this to any React / frontend practice repo you want to highlight._
 
 ---
 
@@ -116,7 +107,6 @@ Practicing:
 ## 🌐 Connect with Me
 
 - 🧑‍💻 GitHub: [github.com/alian010](https://github.com/alian010)  
-- 🏁 Topcoder: [Profile](https://www.topcoder.com/members/3510)  
 
 ---
 

@@ -1,18 +1,123 @@
-<h1 align="center">Hi 👋, I'm Shakhawat Hossen</h1>
-<h3 align="center">Software & DevOps Engineer focused on clean code, automation, and scalable systems ✅</h3>
+# 👋 Hi, I'm Shakhawat Hossen
 
-- 🔭 I’m currently working on Full-stack Django web application for a Bangladeshi client (development, deployment & monitoring) [gvoiceus.com](https://gvoiceus.com/)
+💻 **Software & DevOps Engineer | Full-Stack Django Developer | Cloud & Monitoring Enthusiast**  
+📍 Bangladesh  
+📫 Reach me: [shakhawat.icpc@gmail.com](mailto:shakhawat.icpc@gmail.com) | [0962210005101020@isu.ac.bd](mailto:0962210005101020@isu.ac.bd)
 
-- 🌱 I’m currently learning Microservices architecture (service communication, API gateway, scaling) Machine Learning fundamentals and building ML-powered features Better backend performance, clean architecture & testing Advanced DevOps tools for automation, monitoring & reliability **API gateway, scaling, RabbitMQ, Kafka, Kubernetes, scikit-learn, TensorFlow**
+---
 
-- 📫 How to reach me **shakhawat.icpc@gmail.com, 0962210005101020@isu.ac.bd**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+I'm a **Software & DevOps Engineer** with hands-on experience building and deploying **full-stack Django applications** for real clients in Bangladesh.
+
+I enjoy:
+- Designing **clean backends** and REST APIs  
+- Building **practical frontends**  
+- Handling **deployment, server management, and monitoring**  
+- Learning **microservices and machine learning** to build smarter systems  
+
+🔧 I work with:
+- **Backend & APIs**: Python, Django, Django REST Framework  
+- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS  
+- **Databases**: PostgreSQL, MySQL  
+- **DevOps & Infra**: Docker, Nginx, Linux, Git/GitHub, basic CI/CD  
+- **Monitoring & Logging**: Grafana, Prometheus (learning)  
+- **Data & ML**: Pandas, scikit-learn, TensorFlow  
+
+---
+
+## 📘 Featured Projects
+
+### 🌐 Full-Stack Django Application for Bangladeshi Client – [gvoiceus.com](https://gvoiceus.com/)
+Production-ready full-stack web application where I:
+- Develop backend features using **Django**
+- Implement business logic, data models, and APIs  
+- Manage **deployment**, reverse proxy (**Nginx**), and SSL  
+- Set up **monitoring & uptime checks** to keep the app stable
+
+> _Client project – code is private. I can explain the architecture, stack, and responsibilities in detail._
+
+---
+
+### 🔁 Microservices & Messaging Playground _(in progress)_
+Personal practice project to explore:
+- **Microservices architecture** (service-to-service communication, API gateway, scaling)
+- Using **RabbitMQ / Kafka** as message brokers  
+- Breaking a monolith into smaller services
+
+> _Update this later with your repo link (e.g. `https://github.com/alian010/microservices-playground`)._
+
+---
+
+### 🧠 ML Experiments with Python
+Experimenting with:
+- Data preprocessing and model training  
+- Using **scikit-learn** and **TensorFlow**  
+- Ideas on how to plug ML models into web apps (Django/REST APIs)
+
+> _Add your ML repo link here when ready._
+
+---
+
+### 💻 Frontend & React Practice
+Practicing:
+- **React components**  
+- Tailwind CSS layouts  
+- Responsive and modern UI
+
+> _Point this to any React / frontend practice repo you want to highlight._
+
+---
+
+## 🌱 I’m Currently Learning
+
+- **Microservices architecture** (service communication, API gateway, scaling)  
+- **Message brokers**: RabbitMQ, Kafka (basics)  
+- **Containerization & orchestration**: Docker, Kubernetes  
+- **Machine Learning fundamentals** and building ML-powered features  
+- **ML tools**: scikit-learn, TensorFlow  
+- Deploying ML models and microservices into **real production systems**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+`Python` · `JavaScript` · `C++` · `Java`
+
+**Backend:**  
+`Django` · `Django REST Framework` · `REST APIs`
+
+**Frontend:**  
+`HTML` · `CSS` · `React` · `Tailwind CSS`
+
+**Databases:**  
+`PostgreSQL` · `MySQL`
+
+**DevOps & Infra:**  
+`Docker` · `Linux` · `Nginx` · `Git` · `GitHub`
+
+**Cloud & Monitoring:**  
+`AWS (basic)` · `Grafana` · `Prometheus (learning)`
+
+**Data & ML:**  
+`Pandas` · `scikit-learn` · `TensorFlow`
+
+---
+
+## 📊 GitHub Stats
+
 <p align="left">
-<a href="https://www.topcoder.com/members/3510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="3510" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alian010&show_icons=true&locale=en&layout=compact" alt="alian010" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alian010&show_icons=true&locale=en&layout=compact" alt="alian010" /></p>
+## 🌐 Connect with Me
+
+- 🧑‍💻 GitHub: [github.com/alian010](https://github.com/alian010)  
+- 🏁 Topcoder: [Profile](https://www.topcoder.com/members/3510)  
+
+---
+
+_“Clean code in the repo, stable services in production.”_

@@ -86,10 +86,10 @@ Experimenting with:
 `PostgreSQL` · `MySQL`
 
 **DevOps & Infra:**  
-`Docker` · `Linux` · `Nginx` · `Git` · `GitHub`
+`Docker` · `Kubernetes (K8s)` · `Terraform` · `GitHub Actions(CI/CD)` · `Linux` · `Nginx` · `Git` · `GitHub`
 
 **Cloud & Monitoring:**  
-`AWS (basic)` · `Grafana` · `Prometheus (learning)`
+`AWS (EC2, RDS, S3, Route 53) ` · `Grafana` · `Prometheus (learning)`
 
 **Data & ML:**  
 `Pandas` · `scikit-learn` · `TensorFlow`

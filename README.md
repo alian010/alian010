@@ -20,8 +20,8 @@ I enjoy:
 - **Backend & APIs**: Python, Django, Django REST Framework  
 - **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS  
 - **Databases**: PostgreSQL, MySQL
-- **Cloud & Infrastructure**: AWS (EC2, RDS, S3, Route 53, Beanstalk, ElastiCache), Vagrant, VirtualBox
-- **DevOps**: Docker, Nginx, Linux, Git/GitHub, CI/CD  
+- **Cloud & Infrastructure**: AWS (EC2, RDS, S3, Route 53, Beanstalk, ElastiCache), Terraform, Vagrant, VirtualBox
+- **DevOps**: Docker, Kubernetes (K8s), Nginx, Linux, Git/GitHub, CI/CD(GitHub Actions)  
 - **Monitoring & Logging**: AWS CloudWatch, Grafana, Prometheus 
 - **Data & ML**: Pandas, scikit-learn, TensorFlow  
 
